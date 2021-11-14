@@ -240,7 +240,7 @@ MLEngine
 
 ```
 ---
-**Author - _`Shivani Tyagi (Data Scientist)
+**Author - _`Harsh
              - shivani.tg94@yahoo.com`_**
 
-**Copyright issued to @Scanta Inc.**
+****
